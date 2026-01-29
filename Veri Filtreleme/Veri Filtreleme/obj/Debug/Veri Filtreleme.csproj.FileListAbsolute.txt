@@ -1,0 +1,21 @@
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\bin\Debug\Veri Filtreleme.exe.config
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\bin\Debug\Veri Filtreleme.exe
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\bin\Debug\Veri Filtreleme.pdb
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\obj\Debug\Veri Filtreleme.csproj.AssemblyReference.cache
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\obj\Debug\Veri_Filtreleme.Form1.resources
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\obj\Debug\Veri_Filtreleme.Properties.Resources.resources
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\obj\Debug\Veri Filtreleme.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\obj\Debug\Veri Filtreleme.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\obj\Debug\Veri Filtreleme.exe
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\obj\Debug\Veri Filtreleme.pdb
+C:\Users\Hasan\Desktop\Okul\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\bin\Debug\Veri Filtreleme.exe.config
+C:\Users\Hasan\Desktop\Okul\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\bin\Debug\Veri Filtreleme.exe
+C:\Users\Hasan\Desktop\Okul\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\bin\Debug\Veri Filtreleme.pdb
+C:\Users\Hasan\Desktop\Okul\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\obj\Debug\Veri Filtreleme.csproj.AssemblyReference.cache
+C:\Users\Hasan\Desktop\Okul\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\obj\Debug\Veri Filtreleme.exe.config
+C:\Users\Hasan\Desktop\Okul\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\obj\Debug\Veri_Filtreleme.Form1.resources
+C:\Users\Hasan\Desktop\Okul\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\obj\Debug\Veri_Filtreleme.Properties.Resources.resources
+C:\Users\Hasan\Desktop\Okul\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\obj\Debug\Veri Filtreleme.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\Okul\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\obj\Debug\Veri Filtreleme.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Okul\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\obj\Debug\Veri Filtreleme.exe
+C:\Users\Hasan\Desktop\Okul\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Veri Filtreleme\Veri Filtreleme\obj\Debug\Veri Filtreleme.pdb
